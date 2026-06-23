@@ -1,0 +1,13 @@
+{
+  "name": "Climate Atlas",
+  "short_name": "Climate Atlas",
+  "description": "Day-by-day and month-by-month climate comparison between world cities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7EF",
+  "theme_color": "#FBF7EF",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
