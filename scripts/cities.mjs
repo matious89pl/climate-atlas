@@ -11,4 +11,5 @@ export const CITIES = [
   { id: 'cape-town',   name: 'Cape Town',   country: 'South Africa',   lat: -33.9249, lon:  18.4241, timezone: 'Africa/Johannesburg' },
   { id: 'los-angeles', name: 'Los Angeles', country: 'United States',  lat:  34.0522, lon: -118.2437, timezone: 'America/Los_Angeles' },
   { id: 'moscow',      name: 'Moscow',      country: 'Russia',         lat:  55.7558, lon:  37.6173, timezone: 'Europe/Moscow' },
+  { id: 'krakow',      name: 'Kraków',      country: 'Poland',         lat:  50.0647, lon:  19.9450, timezone: 'Europe/Warsaw' },
 ]
