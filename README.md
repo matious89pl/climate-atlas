@@ -5,7 +5,7 @@ Defaults to **Sydney vs London**, with eight more cities to swap in. Compares
 temperature, feels-like, sunshine, rain & snow, wind and UV index — all from ~12
 years of real reanalysis data, baked into the app so it runs offline.
 
-**▶ Live: [climatcomp.vercel.app](https://climatcomp.vercel.app)**
+**▶ Live: [atlas.strq.dev](https://atlas.strq.dev)**
 
 ## What it does
 
